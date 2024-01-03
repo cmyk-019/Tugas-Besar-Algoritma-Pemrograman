@@ -8,7 +8,7 @@ Program ditulis dengan bahasa C
 
 Dokumen ini berisikan :
 	
-        1. Bismillah 	   : gambaran kasar mengenai program yang akan dibuat.
+1. Bismillah 	   : gambaran kasar mengenai program yang akan dibuat.
 	2. Desain Sistem 
  	3. Flowchart
   	4. Kelompok 12 UAS : notasi algoritma
